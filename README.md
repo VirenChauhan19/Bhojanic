@@ -1,6 +1,6 @@
-# Bhojanic — A little spice. A lot of soul.
+# Bhojanic — Indian & global catering
 
-A responsive redesign of Bhojanic with editorial typography, white, the original site's exact beige (`#FFF2E6`), orange accents, and neutral gray text. Original food photography and a lightweight animation system bring the pages to life. The original public menu content, chef biography, culinary journeys, and event pages are retained.
+A responsive, food-first redesign of Bhojanic with editorial typography, white, the original site's exact beige (`#FFF2E6`), orange accents, and neutral gray text. A single panoramic food photograph opens the home page, followed by a catering index, menu directory, founder story, travel feature, and Curry Jam archive. The original public menu content, chef biography, culinary journeys, and event pages are retained.
 
 ## Preview
 
@@ -28,14 +28,16 @@ For a side-by-side phone, tablet, and desktop review, open http://localhost:3000
 
 The layout reorganizes for phones, tablets, laptops, and larger desktops. Navigation changes to an animated, keyboard-accessible mobile menu. Menus have live dish search, section navigation, and horizontally scrollable cuisine tabs. Galleries support touch scrolling and a native lightbox with keyboard controls.
 
-Motion includes staggered headline entrances, image reveals, a seamless scrolling flavor ribbon with pause/resume controls, gentle pointer and scroll parallax, animated navigation, and cross-page transitions. The system honors `prefers-reduced-motion` by default; the footer lets visitors explicitly enable animations or reduce motion, and remembers that choice. Photos use available local responsive variants; below-the-fold images load lazily. The redesigned pages do not depend on the Squarespace browser runtime.
+Motion includes restrained image and section reveals, a seamless scrolling flavor ribbon with pause/resume controls, animated navigation, subtle link feedback, and cross-page transitions. The opening photograph is stable, without floating or pointer movement. The system honors `prefers-reduced-motion` by default; the footer lets visitors explicitly enable animations or reduce motion, and remembers that choice. Photos use available local responsive variants; below-the-fold images load lazily. The redesigned pages do not depend on the Squarespace browser runtime.
 
 ## Editing and building
 
 - `site/design.css`: design tokens, layouts, breakpoints, and motion.
 - `site/brand.css`: the orange/white/beige styling and seamless scrolling ribbon.
+- `site/editorial.css`: the current editorial layout, typography, and responsive refinements.
 - `site/design.js`: navigation, reveals, gallery controls, menu search, and forms.
 - `scripts/build-design.mjs`: shared layouts and page templates.
+- `scripts/editorial-home.mjs`: current home page and shared footer templates.
 - `content/pages.json`: extracted original content, images, and form definitions.
 - `site/assets/`: original downloaded photography, fonts, and documents.
 

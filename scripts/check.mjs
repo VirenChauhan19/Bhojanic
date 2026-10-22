@@ -14,6 +14,11 @@ assert.equal((brunch.match(/<li>/g) || []).length, 23, 'All 23 brunch selections
 assert.equal((brunch.match(/Minimum Guest Count - 50/g) || []).length, 1, 'Guest minimum appears once');
 assert.equal((brunch.match(/Mini Aloo Tikki Benedict/g) || []).length, 1, 'Brunch dishes are not duplicated');
 assert.ok(!brunch.includes('The menu 1'), 'No placeholder brunch section');
+const mediterranean = await fs.readFile(path.join(root, 'mediterranean-menu/index.html'), 'utf8');
+const mediterraneanNote = mediterranean.match(/<div class="menu-note">([\s\S]*?)<\/div>/)?.[1] || '';
+assert.ok(!mediterraneanNote.includes('<li>'), 'Mediterranean dishes stay out of the intro note');
+const mediterraneanIds = [...mediterranean.matchAll(/<section class="menu-section" id="([^"]+)"/g)].map(match => match[1]);
+assert.equal(new Set(mediterraneanIds).size, mediterraneanIds.length, 'Repeated sample-menu categories have unique anchors');
 for (const route of manifest.pages) {
   const filename = path.join(root, route === '/' ? 'index.html' : route.slice(1) + '/index.html');
   const html = await fs.readFile(filename, 'utf8');
