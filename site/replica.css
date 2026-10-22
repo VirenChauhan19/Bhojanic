@@ -1,0 +1,4 @@
+/* The reference site's original styles are bundled in assets/. */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; scroll-behavior: auto !important; }
+}

@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Bhojanic — Responsive review</title>
+  <style>
+    *{box-sizing:border-box}body{margin:0;background:#e4e2db;padding:24px;font:14px system-ui;color:#263e32}
+    h1{font-size:20px;margin:0 0 8px}p{margin:0 0 24px}nav{display:flex;align-items:center;gap:8px;margin-bottom:24px;flex-wrap:wrap}
+    button,select{padding:9px 16px;border:1px solid #b3b7ac;border-radius:5px;cursor:pointer;background:#f7f2e9;color:#263e32;font:inherit}
+    label{margin-left:18px;font-size:12px}select{margin-left:8px}.frames{display:flex;align-items:flex-start;gap:28px}
+    section{flex-shrink:0}h2{font-size:12px;letter-spacing:1px;text-transform:uppercase;margin:0 0 10px}
+    iframe{border:0;box-shadow:0 4px 30px #0001;background:#f7f2e9;display:block}
+    #phone{width:390px;height:844px}#tablet{width:768px;height:1024px}#desktop{width:1280px;height:900px}
+  </style>
+</head>
+<body>
+  <h1>Bhojanic · Responsive review</h1>
+  <p>Real page layouts at phone, tablet, and desktop widths.</p>
+  <nav aria-label="Preview page">
+    <button data-url="/home-page">Home</button>
+    <button data-url="/full-catering-menu">Indian menu</button>
+    <button data-url="/catering-contact">Contact</button>
+    <button data-url="/india-food-tour">Culinary journey</button>
+    <label>Phone width<select id="phone-width"><option value="320">320 px</option><option value="390" selected>390 px</option><option value="430">430 px</option></select></label>
+  </nav>
+  <div class="frames">
+    <section><h2 id="phone-label">Phone · 390 × 844</h2><iframe id="phone" title="Phone preview" src="/home-page"></iframe></section>
+    <section><h2>Tablet · 768 × 1024</h2><iframe id="tablet" title="Tablet preview" src="/home-page"></iframe></section>
+    <section><h2>Desktop · 1280 × 900</h2><iframe id="desktop" title="Desktop preview" src="/home-page"></iframe></section>
+  </div>
+  <script>
+    document.querySelectorAll('[data-url]').forEach(button=>button.addEventListener('click',()=>document.querySelectorAll('iframe').forEach(frame=>frame.src=button.dataset.url)));
+    document.querySelector('#phone-width').addEventListener('change',event=>{
+      document.querySelector('#phone').style.width=event.target.value+'px';
+      document.querySelector('#phone-label').textContent='Phone · '+event.target.value+' × 844';
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,25 @@
+<svg id="systemIcons" xmlns="http://www.w3.org/2000/svg" version="1.1">
+  <symbol id="background" viewbox="0 0 64 64">
+    <g class="svg-background">
+      <circle cx="32" cy="32" r="31" />
+    </g>
+  </symbol>
+
+  <symbol id="lock-icon" viewBox="0 0 64 64">
+    <g class="svg-icon">
+      <path d="M40.2,29v-4c0-4.5-3.7-8.2-8.2-8.2s-8.2,3.7-8.2,8.2v4H21v15h22V29H40.2z M27.2,25 c0-2.6,2.1-4.8,4.8-4.8s4.8,2.1,4.8,4.8v4h-9.5V25z"/>
+    </g>
+  </symbol>
+  <symbol id="lock-mask" viewbox="0 0 64 64">
+    <g class="svg-mask">
+      <path d="M0,0v64h64V0H0z M43,44H21V29h2.8v-4c0-4.5,3.7-8.2,8.2-8.2s8.2,3.7,8.2,8.2v4H43V44z M32,20.2 c-2.6,0-4.8,2.1-4.8,4.8v4h9.5v-4C36.8,22.4,34.6,20.2,32,20.2z"/>
+    </g>
+  </symbol>
+
+  <symbol id="input-arrow" viewbox="0 0 48 44">
+    <g class="svg-icon">
+      <polygon points="27.7,13.3 26.3,14.7 31.6,20 14,20 14,22 31.6,22 26.3,27.3 27.7,28.7 35.4,21 "/>
+    </g>
+  </symbol>
+
+</svg>

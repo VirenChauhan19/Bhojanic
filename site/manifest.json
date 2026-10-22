@@ -1,0 +1,1437 @@
+{
+  "origin": "https://www.bhojanic.com",
+  "captured": "2026-10-22T02:31:47.015Z",
+  "pages": [
+    "/home-page",
+    "/",
+    "/new-page-3",
+    "/full-catering-menu",
+    "/mediterranean-menu",
+    "/american-menu",
+    "/appetizers-bites",
+    "/mexican-meniu",
+    "/venuesandpartners",
+    "/india-food-tour",
+    "/press-and-testimonials",
+    "/catering-contact",
+    "/jam-cruise-curry-jam-00",
+    "/class-recipes",
+    "/india-food-tour-itinerary",
+    "/india-food-tour-form",
+    "/jam-cruise-curry-jam",
+    "/curry-jam-karl-denson",
+    "/curry-jam-eddie-roberts",
+    "/curry-jam-roosevelt-collier",
+    "/curry-jam-dj-logic",
+    "/menus",
+    "/our-story"
+  ],
+  "assets": {
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1429044705617-WT6SAK1FB43FU8M0ZHUJ/favicon.ico?format=100w": {
+      "file": "assets/d39074a64386ae25ed2d.ico",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/@sqs/polyfiller/1.7.7/modern.js": {
+      "file": "assets/a40b82d6949959dfe49e.js",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/scripts-compressed/visitor-site-error-reporter-2dd52f1f749b09bf-min.en-US.js": {
+      "file": "assets/9a359cda7a897480cde2.js",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-9724cda45b5b660b-min.en-US.js": {
+      "file": "assets/4c9eb47bdf3f3e1df005.js",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-a5cfdec1ae227f33-min.en-US.js": {
+      "file": "assets/2f7d1290188a40e5812f.js",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-42a5d86b1fe8fbb5-min.en-US.js": {
+      "file": "assets/4c12801e182680548553.js",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-1988b40b24a74586-min.en-US.js": {
+      "file": "assets/a576d9a4ce2303d46f06.js",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/scripts-compressed/common-vendors-bded37ca73fe21ab-min.en-US.js": {
+      "file": "assets/2bee56d05a743f2d27f6.js",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/scripts-compressed/common-6fc0f94ad4192672-min.en-US.js": {
+      "file": "assets/6a63643369623e4dc15f.js",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/scripts-compressed/commerce-966fa3541bfdafa3-min.en-US.js": {
+      "file": "assets/7c005de75cae758e9aeb.js",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css": {
+      "file": "assets/50a2f4e071cea0a092d3.css",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/scripts-compressed/user-account-core-ca99048170e8f83d-min.en-US.js": {
+      "file": "assets/69e3ccec3050e4a14b17.js",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/styles-compressed/user-account-core-3d01a2f01227067c-min.en-US.css": {
+      "file": "assets/486a442b222f3a532333.css",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/scripts-compressed/performance-fc3e12d4b93635c0-min.en-US.js": {
+      "file": "assets/73f2b2944a54041bebb0.js",
+      "downloaded": true
+    },
+    "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageLayout/8e555d4f-64f8-4660-97d0-5b19903da681_244/website.components.imageLayout.styles.css": {
+      "file": "assets/16273ca1ada7c86a6112.css",
+      "downloaded": true
+    },
+    "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/66a90f8e-b825-4c83-be09-b10df988ce22_778/website.components.socialLinks.styles.css": {
+      "file": "assets/8f5b461a8fa88240ca10.css",
+      "downloaded": true
+    },
+    "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageLayout/8e555d4f-64f8-4660-97d0-5b19903da681_244/website.components.imageLayout.visitor.js": {
+      "file": "assets/27c490c9e6f020719ef3.js",
+      "downloaded": true
+    },
+    "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/66a90f8e-b825-4c83-be09-b10df988ce22_778/website.components.socialLinks.visitor.js": {
+      "file": "assets/b7d9b017a68bfad80c15.js",
+      "downloaded": true
+    },
+    "https://static1.squarespace.com/static/sitecss/54626441e4b04efe6286795d/273/54f4b9abe4b0ebac9f97050a/54f4b9ace4b0ebac9f970526/0/site.css?nocustom=true": {
+      "file": "assets/0d32faa2a4033cbf1ebf.css",
+      "downloaded": true
+    },
+    "https://static1.squarespace.com/static/custom-css/54626441e4b04efe6286795d/54f4b9ace4b0ebac9f970526/22/custom.css": {
+      "file": "assets/59ee5ce6917bceab7586.css",
+      "downloaded": true
+    },
+    "https://static1.squarespace.com/static/ta/54626441e4b04efe6286795d/0/scripts/combo/?site.js": {
+      "file": "assets/136abfcc7fb07e777f68.js",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/5f157d4c-7893-456f-b12a-fd3e10b57cdf/BhojanicLogo_NoTagline.png?format=400w": {
+      "file": "assets/256845759e07b559909d.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/a926dfeb-38a7-4c66-89a8-253964940345/elegant-appetizers-prepared-for-upscale-dining-eve-2026-09-23-19-08-19-utc.jpg": {
+      "file": "assets/ad7501cd466d6ba8a18e.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/a926dfeb-38a7-4c66-89a8-253964940345/elegant-appetizers-prepared-for-upscale-dining-eve-2026-09-23-19-08-19-utc.jpg?format=100w": {
+      "file": "assets/915b0e30085309062ad3.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/a926dfeb-38a7-4c66-89a8-253964940345/elegant-appetizers-prepared-for-upscale-dining-eve-2026-09-23-19-08-19-utc.jpg?format=300w": {
+      "file": "assets/51e8a518d3435738fe54.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/a926dfeb-38a7-4c66-89a8-253964940345/elegant-appetizers-prepared-for-upscale-dining-eve-2026-09-23-19-08-19-utc.jpg?format=500w": {
+      "file": "assets/ec233555a630e4d54d2e.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/a926dfeb-38a7-4c66-89a8-253964940345/elegant-appetizers-prepared-for-upscale-dining-eve-2026-09-23-19-08-19-utc.jpg?format=750w": {
+      "file": "assets/f3989d1a822edf257600.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/a926dfeb-38a7-4c66-89a8-253964940345/elegant-appetizers-prepared-for-upscale-dining-eve-2026-09-23-19-08-19-utc.jpg?format=1000w": {
+      "file": "assets/2054da4e1e1807b6e9a5.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/a926dfeb-38a7-4c66-89a8-253964940345/elegant-appetizers-prepared-for-upscale-dining-eve-2026-09-23-19-08-19-utc.jpg?format=1500w": {
+      "file": "assets/5f0f7eb8f0684a818dc1.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/a926dfeb-38a7-4c66-89a8-253964940345/elegant-appetizers-prepared-for-upscale-dining-eve-2026-09-23-19-08-19-utc.jpg?format=2500w": {
+      "file": "assets/79d5187abd8843423329.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1435703906600-93HPJ56EKIJ7SW4BN7A5/image-asset.png": {
+      "file": "assets/6ffe8b1525f9625f3883.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1435703906600-93HPJ56EKIJ7SW4BN7A5/image-asset.png?format=100w": {
+      "file": "assets/0002daed8f98539ce390.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1435703906600-93HPJ56EKIJ7SW4BN7A5/image-asset.png?format=300w": {
+      "file": "assets/73325e6800775d133146.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1435703906600-93HPJ56EKIJ7SW4BN7A5/image-asset.png?format=500w": {
+      "file": "assets/02f42bc21ba652afa6fc.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1435703906600-93HPJ56EKIJ7SW4BN7A5/image-asset.png?format=750w": {
+      "file": "assets/1e5116b1b35e675c9b84.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1435703906600-93HPJ56EKIJ7SW4BN7A5/image-asset.png?format=1000w": {
+      "file": "assets/5cd6a311211032bab049.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1435703906600-93HPJ56EKIJ7SW4BN7A5/image-asset.png?format=1500w": {
+      "file": "assets/d14b4cc510a085660b3e.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1435703906600-93HPJ56EKIJ7SW4BN7A5/image-asset.png?format=2500w": {
+      "file": "assets/fafde80f0a4c676e9437.png",
+      "downloaded": true
+    },
+    "https://www.bhojanic.com/universal/svg/social-accounts.svg": {
+      "file": "assets/adceb6df07241fc888c1.svg",
+      "downloaded": true
+    },
+    "https://file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/db415387-dece-4812-ac10-5c31109e8223/latin.woff2": {
+      "file": "assets/e36b8efa21354e424e6a.woff2",
+      "downloaded": true
+    },
+    "https://file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/1382a153-cefa-4083-b9ed-ce03fccb2f43/latin-ext.woff2": {
+      "file": "assets/376b2c0b3e302f220e5b.woff2",
+      "downloaded": true
+    },
+    "https://file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/1b45482b-5d49-46de-8b77-74a05e129427/latin-ext.woff2": {
+      "file": "assets/1f88d37afc33892431d1.woff2",
+      "downloaded": true
+    },
+    "https://file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/dc1ac087-facb-4be5-b95e-65b2d46a167e/latin.woff2": {
+      "file": "assets/ab500064e58f7bc40e1a.woff2",
+      "downloaded": true
+    },
+    "https://file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/5cf14155-7d47-4db1-9a03-ba097cb7135c/latin-ext.woff2": {
+      "file": "assets/5b8829ee87b4acc0eeba.woff2",
+      "downloaded": true
+    },
+    "https://file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/2d0961b9-92a8-4b05-bc35-6c067b4492b9/latin.woff2": {
+      "file": "assets/086be9ca696d3f6c58f2.woff2",
+      "downloaded": true
+    },
+    "https://file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/98ced093-95b2-4ee6-a102-e698bee421a1/vietnamese.woff2": {
+      "file": "assets/a290443be00efed24c9c.woff2",
+      "downloaded": true
+    },
+    "https://file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/7a7ec68c-5a5a-4c5b-9483-d366d8e2fbfa/latin-ext.woff2": {
+      "file": "assets/6a23b6fa64b231832a27.woff2",
+      "downloaded": true
+    },
+    "https://file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/fb53c5b0-a7ec-48f0-8265-1a7b0ec5d2b6/latin.woff2": {
+      "file": "assets/f87339b81fb7fb4e4992.woff2",
+      "downloaded": true
+    },
+    "https://file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/6b22a058-7aa9-4f6c-98d1-6c63d019cdbe/latin-ext.woff2": {
+      "file": "assets/456f79ba7cbd4097b892.woff2",
+      "downloaded": true
+    },
+    "https://file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/86d093b3-08ac-43f2-86f4-e6235ebcc515/latin.woff2": {
+      "file": "assets/aedb5bb37d9ec75d3ab9.woff2",
+      "downloaded": true
+    },
+    "https://file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/c5175bb0-8b31-4194-a67e-84725e7d0894/latin.woff2": {
+      "file": "assets/04c1b7c8409aa38ad630.woff2",
+      "downloaded": true
+    },
+    "https://file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/e8b1f823-b3d1-4fb2-9b82-ca5aca61a65e/vietnamese.woff2": {
+      "file": "assets/2a53b209444826805890.woff2",
+      "downloaded": true
+    },
+    "https://file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/88f9b0d4-6dfb-4743-b1f5-e43d7aedfe81/latin-ext.woff2": {
+      "file": "assets/450937f6481ad5526b8c.woff2",
+      "downloaded": true
+    },
+    "https://file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/577c482f-5d3b-4267-a7ec-5ae6bbd48930/latin.woff2": {
+      "file": "assets/f360580ff8158f6f52ec.woff2",
+      "downloaded": true
+    },
+    "https://file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/b6ca9edb-5857-4032-90ed-62c5da0b6799/latin-ext.woff2": {
+      "file": "assets/591e7dfc76bc98112dfa.woff2",
+      "downloaded": true
+    },
+    "https://file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/51bfcbc2-6a76-4866-a99a-0630f3f64d93/latin.woff2": {
+      "file": "assets/263f30e4547675b6d42b.woff2",
+      "downloaded": true
+    },
+    "https://file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/8f52bba4-9261-4f19-ab12-aaa0289c7954/latin-ext.woff2": {
+      "file": "assets/439e71e2b4de4a4be003.woff2",
+      "downloaded": true
+    },
+    "https://file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/8fcc0983-86d5-4f76-b170-d7422c655ff0/vietnamese.woff2": {
+      "file": "assets/20e1bfc40c11f8379078.woff2",
+      "downloaded": true
+    },
+    "https://file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/546cc005-08c7-47cc-98a2-374cd77b00e4/vietnamese.woff2": {
+      "file": "assets/490ec9ad70fb636e687a.woff2",
+      "downloaded": true
+    },
+    "https://file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/a1c8d917-dc50-4881-9377-008f87e7d324/latin-ext.woff2": {
+      "file": "assets/bc044d85c66139614caf.woff2",
+      "downloaded": true
+    },
+    "https://file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/302ab52b-102e-45ea-b1c1-b550a865cc93/latin.woff2": {
+      "file": "assets/1acd019b812764d83431.woff2",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/styles-compressed/slide-normalize-f3e05d707a08546a77c65-min.en-US.css": {
+      "file": "assets/edacdebeb65eb9c9f3df.css",
+      "downloaded": true
+    },
+    "https://use.typekit.net/ik/-SJZnu6TOJ7FXQ2oLYhwB-XraA4lUs_cUVkrJVFzMTtfezIgfFHN4UJLFRbh52jhWD9XFRJhF2bUZQsKw2s8Zc9hwR6hFDquZgGMJ68ciWsuScIlSYbKfcuTdc8zdKu3ScvKIeZkZA81-YblShB0Sku3Scv7fbKImsMMeMb6MKG4fVN9IMMjgPMfH6qJ6m9bMg6YJMJ7fbKBmsMMeMt6MKG4fJ4mIMMjIPMfH6qJyB9bMg6IJMJ7fbRxmgMMeM96MKG4fJBmIMMjgkMfH6qJym9bMg65JMJ7fbKfmsMMegI6MKG4fHIuIMIjgfMfH6qJ1D9bMs6BJMJ7fbKKFsMgeMj6MKG4f44TIMJjgPMfqMep70QAg6.js": {
+      "file": "assets/37db1003926afd379a7a.js",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-7d81c2337eb2768e-min.en-US.js": {
+      "file": "assets/6b75d1f1416933c8049f.js",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/scripts-compressed/common-a68dc3939dcbfebe-min.en-US.js": {
+      "file": "assets/83a63ad84b46a7e3d172.js",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/scripts-compressed/slides-d1466820532fc96a-min.en-US.js": {
+      "file": "assets/40fce37b0291931ba28c.js",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/styles-compressed/slides-bd97de6bd5f5ff9b-min.en-US.css": {
+      "file": "assets/972251a20bd13672d72c.css",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/scripts-compressed/performance-9d016e7e191ab527-min.en-US.js": {
+      "file": "assets/5053c79d452267bcc943.js",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/ee9d1713-0e2f-49c1-a45d-eb92cee69dbf/BhojanicCatering_Image2.webp": {
+      "file": "assets/8669bc7a3ab1738ca7ed.webp",
+      "downloaded": true
+    },
+    "https://static1.squarespace.com/static/54626441e4b04efe6286795d/t/6ad2d381eb1a0313380c9c5d/1792201601856/BhojanicLogo_NoTagline.png": {
+      "file": "assets/01f6083d2b2ba52cd1cf.png",
+      "downloaded": true
+    },
+    "https://file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/5ac56459-c61e-4791-8b87-0541d2c6ecb8/vietnamese.woff2": {
+      "file": "assets/6a10440c33a3aeed7aef.woff2",
+      "downloaded": true
+    },
+    "https://file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/940c2e1a-0a0b-44b1-a3a3-f24266a50aaa/latin.woff2": {
+      "file": "assets/9ff4cbba9ee55ddb82f0.woff2",
+      "downloaded": true
+    },
+    "https://file.squarespace-cdn.com/content/v2/namespaces/fonts/libraries/sqsp/assets/e0a1bb86-a979-48d5-8a01-ce2f444d9c07/latin-ext.woff2": {
+      "file": "assets/c2f929a88e8a90576c10.woff2",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/25a7d2cc-83f6-4810-ad0d-5ea940a58442/iStock-874481424.webp": {
+      "file": "assets/93c5f8e722719caedd56.webp",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/25a7d2cc-83f6-4810-ad0d-5ea940a58442/iStock-874481424.webp?format=100w": {
+      "file": "assets/3e1c028bd093c7d7d306.webp",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/25a7d2cc-83f6-4810-ad0d-5ea940a58442/iStock-874481424.webp?format=300w": {
+      "file": "assets/a3c79818b54a2c7492ff.webp",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/25a7d2cc-83f6-4810-ad0d-5ea940a58442/iStock-874481424.webp?format=500w": {
+      "file": "assets/4d04dabf701354d58579.webp",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/25a7d2cc-83f6-4810-ad0d-5ea940a58442/iStock-874481424.webp?format=750w": {
+      "file": "assets/5a541d460a5aedd22c7d.webp",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/25a7d2cc-83f6-4810-ad0d-5ea940a58442/iStock-874481424.webp?format=1000w": {
+      "file": "assets/9eb2a7e40a9169b3f56b.webp",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/25a7d2cc-83f6-4810-ad0d-5ea940a58442/iStock-874481424.webp?format=1500w": {
+      "file": "assets/bbb1a85ef6ae70bc59f4.webp",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/25a7d2cc-83f6-4810-ad0d-5ea940a58442/iStock-874481424.webp?format=2500w": {
+      "file": "assets/542ea0c7ff732a6c7334.webp",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-5559683dfe244170-min.en-US.js": {
+      "file": "assets/f91a70adcbd4fe66b338.js",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/scripts-compressed/performance-d98268188967892c-min.en-US.js": {
+      "file": "assets/de2b05d46c5e6433c559.js",
+      "downloaded": true
+    },
+    "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.button/7be2e993-a1ef-4c33-833b-15c773ad9e26_1170/website.components.button.styles.css": {
+      "file": "assets/69639628fca35fafc924.css",
+      "downloaded": true
+    },
+    "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.quote/f5f888d4-1876-4674-b9da-af83ca78d404_846/website.components.quote.styles.css": {
+      "file": "assets/0e4f4ba4c48289c811ad.css",
+      "downloaded": true
+    },
+    "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.button/7be2e993-a1ef-4c33-833b-15c773ad9e26_1170/website.components.button.visitor.js": {
+      "file": "assets/3b97eb9dbf8c63141b83.js",
+      "downloaded": true
+    },
+    "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.quote/f5f888d4-1876-4674-b9da-af83ca78d404_846/website.components.quote.visitor.js": {
+      "file": "assets/da24c268364d41d47fcf.js",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1752292894257-MPM2O5DX7CCTKNDHYLAM/India+Photo+%281%29.jpg": {
+      "file": "assets/6fa26a451d6cbcc82e23.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1752292744266-EQGRLBO5OIKZMFH90MN0/India+Photo+%282%29.jpg": {
+      "file": "assets/dd7254f0c9bbc2cca9e2.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1752292759351-INXRG979923H4FKMXBSL/India+Photo+%285%29.jpg": {
+      "file": "assets/01a44ca31bc8b72ceaff.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1752292990671-RCXU6980KNP50ZKDUOOQ/India+Photo+%282%29.jpg": {
+      "file": "assets/968c87beed93d3076a95.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1752292760567-Y2TJWUSQXFDZCQ60GJY8/India+Photo+%286%29.jpg": {
+      "file": "assets/5ee1175c03d91ec69134.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1752292937508-S9WTXRPWNMLM8RKCZVG9/India+Photo+%283%29.jpg": {
+      "file": "assets/f640f4a0ec9d59786bf8.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1752292969879-WNV4LBFXLTAZL4BMUOES/India+Photo+%284%29.jpg": {
+      "file": "assets/1a631658909e3d348d05.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1752292981594-NTS7A5RE14HJHMEAOTNG/India+Photo+%285%29.jpg": {
+      "file": "assets/6db994d7c6df940a7e12.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1752292771807-CW3AJQUVVCEWX4YYKD9C/India+Photo+%287%29.jpg": {
+      "file": "assets/0305133c14a623b52fa5.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1752292805946-52BOWVEUVPE4ODJ5JIBW/India+Photo+%288%29.jpg": {
+      "file": "assets/9fb8b748b91848f577a7.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1752292825604-KZ71Y035DOD0XPZK3W0X/India+Photo+%289%29.jpg": {
+      "file": "assets/e344bddc193e7dd1be90.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1752292829536-GOSUN6NLM4ACWJ1D9CQI/India+Photo+%2810%29.jpg": {
+      "file": "assets/86b33912ac06cb31e9d8.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1752292877800-CS8WQ2VXGTGM6GB8O5OP/India+Photo+%2811%29.jpg": {
+      "file": "assets/b9cf81984db20c95600c.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1752292898200-RTISZQ7U8YVOHAMD4TEU/India+Photo+%2812%29.jpg": {
+      "file": "assets/d243876ef44d956555a5.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1752292940768-KY3LDGRMO9WUK0D6NHUC/India+Photo+%2813%29.jpg": {
+      "file": "assets/a84cf8f17d511d85c690.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1752293007252-I6XPOIUGD0226O26JTCW/India+Photo+%2814%29.jpg": {
+      "file": "assets/36afbf37dfab725555d9.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1752293016406-Q7FGZBZT0H1G36EAKKT1/India+Photo+%2815%29.jpg": {
+      "file": "assets/3743ee51192401a94154.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1752293076445-3A4IJ21H1L1VVJJDP7TM/India+Photo+%2816%29.jpg": {
+      "file": "assets/777e58dd282738d647d4.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1752293057913-6X11HSC99CKG6M6K17TR/India+Photo+%2817%29.jpg": {
+      "file": "assets/eaca9d5695989befbbcc.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1752293093548-0E69UNDIH8BZS1MBDAIU/India+Photo+%2818%29.jpg": {
+      "file": "assets/bdb0f19332a3624ebc4d.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1752293103109-BQ9G8G3YSVMBQHU80O7W/India+Photo+%2819%29.jpg": {
+      "file": "assets/d1e96227c0f6d9870765.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1752293109215-Y9TQZOM8KINR347O1S9S/India+Photo+%2820%29.jpg": {
+      "file": "assets/8e7878f10045f9ed9daa.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/aeb2c023-0ea1-4729-ad8c-10191a5c32cf/Archna+Becker+Indian+Food+Tour.png": {
+      "file": "assets/1e6d43ed414a838c066b.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/aeb2c023-0ea1-4729-ad8c-10191a5c32cf/Archna+Becker+Indian+Food+Tour.png?format=100w": {
+      "file": "assets/d4b4b531f80bb32bade6.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/aeb2c023-0ea1-4729-ad8c-10191a5c32cf/Archna+Becker+Indian+Food+Tour.png?format=300w": {
+      "file": "assets/9e84670050c05ac0f9a9.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/aeb2c023-0ea1-4729-ad8c-10191a5c32cf/Archna+Becker+Indian+Food+Tour.png?format=500w": {
+      "file": "assets/2f7d895fda0c0b1f2bc4.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/aeb2c023-0ea1-4729-ad8c-10191a5c32cf/Archna+Becker+Indian+Food+Tour.png?format=750w": {
+      "file": "assets/66e34ed82e18202e232d.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/aeb2c023-0ea1-4729-ad8c-10191a5c32cf/Archna+Becker+Indian+Food+Tour.png?format=1000w": {
+      "file": "assets/89dec53f23a16f5c7d70.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/aeb2c023-0ea1-4729-ad8c-10191a5c32cf/Archna+Becker+Indian+Food+Tour.png?format=1500w": {
+      "file": "assets/85ac6199a0a4976cff3a.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/aeb2c023-0ea1-4729-ad8c-10191a5c32cf/Archna+Becker+Indian+Food+Tour.png?format=2500w": {
+      "file": "assets/d5731af8e3662bf31dd0.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/5ee4ca63-d621-4e84-9cf4-dd648c4760a3/Bhojanic_Archna_Headshot.jpg": {
+      "file": "assets/4dc7a0e065fc242f42e8.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/5ee4ca63-d621-4e84-9cf4-dd648c4760a3/Bhojanic_Archna_Headshot.jpg?format=100w": {
+      "file": "assets/b560a4050807833a9614.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/5ee4ca63-d621-4e84-9cf4-dd648c4760a3/Bhojanic_Archna_Headshot.jpg?format=300w": {
+      "file": "assets/1d10ab41100b8e50a0a8.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/5ee4ca63-d621-4e84-9cf4-dd648c4760a3/Bhojanic_Archna_Headshot.jpg?format=500w": {
+      "file": "assets/7f5a7ca38bd5c6ebfaa4.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/5ee4ca63-d621-4e84-9cf4-dd648c4760a3/Bhojanic_Archna_Headshot.jpg?format=750w": {
+      "file": "assets/ec8a6749fb3dd54ce04a.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/5ee4ca63-d621-4e84-9cf4-dd648c4760a3/Bhojanic_Archna_Headshot.jpg?format=1000w": {
+      "file": "assets/f710d2d1c26db0be5b08.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/5ee4ca63-d621-4e84-9cf4-dd648c4760a3/Bhojanic_Archna_Headshot.jpg?format=1500w": {
+      "file": "assets/75d174e4fc28e7e48142.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/5ee4ca63-d621-4e84-9cf4-dd648c4760a3/Bhojanic_Archna_Headshot.jpg?format=2500w": {
+      "file": "assets/b23ef4012a3df4681716.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/64370b4b-cc88-4b6e-8d96-ee4742545815/India+Food+Tour++Archna+Becker.jpg": {
+      "file": "assets/daa4a05838f6b409a515.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/64370b4b-cc88-4b6e-8d96-ee4742545815/India+Food+Tour++Archna+Becker.jpg?format=100w": {
+      "file": "assets/1db33642d35b394da4d6.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/64370b4b-cc88-4b6e-8d96-ee4742545815/India+Food+Tour++Archna+Becker.jpg?format=300w": {
+      "file": "assets/2e3282585c2e51c355e1.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/64370b4b-cc88-4b6e-8d96-ee4742545815/India+Food+Tour++Archna+Becker.jpg?format=500w": {
+      "file": "assets/0fb0230b0598f8ef0693.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/64370b4b-cc88-4b6e-8d96-ee4742545815/India+Food+Tour++Archna+Becker.jpg?format=750w": {
+      "file": "assets/04789ec7c1e1c303c912.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/64370b4b-cc88-4b6e-8d96-ee4742545815/India+Food+Tour++Archna+Becker.jpg?format=1000w": {
+      "file": "assets/387b418f70342dc931a3.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/64370b4b-cc88-4b6e-8d96-ee4742545815/India+Food+Tour++Archna+Becker.jpg?format=1500w": {
+      "file": "assets/d2c2d0e54520b37a4b77.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/64370b4b-cc88-4b6e-8d96-ee4742545815/India+Food+Tour++Archna+Becker.jpg?format=2500w": {
+      "file": "assets/18e856419a2d10a6d52d.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/c1f01ed9-024d-4eaa-9289-3540e286cf0b/indian%2Bfood.webp": {
+      "file": "assets/28b6d2eb67ffcd8d0478.webp",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/c1f01ed9-024d-4eaa-9289-3540e286cf0b/indian%2Bfood.webp?format=100w": {
+      "file": "assets/bafcd9b5a295378407e6.webp",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/c1f01ed9-024d-4eaa-9289-3540e286cf0b/indian%2Bfood.webp?format=300w": {
+      "file": "assets/c80f0669018851388fd6.webp",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/c1f01ed9-024d-4eaa-9289-3540e286cf0b/indian%2Bfood.webp?format=500w": {
+      "file": "assets/e8585ccc4bbdf60cbda6.webp",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/c1f01ed9-024d-4eaa-9289-3540e286cf0b/indian%2Bfood.webp?format=750w": {
+      "file": "assets/0caaa98a7cd21f8f3b7c.webp",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/c1f01ed9-024d-4eaa-9289-3540e286cf0b/indian%2Bfood.webp?format=1000w": {
+      "file": "assets/4c48e8bf48c54ebb980e.webp",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/c1f01ed9-024d-4eaa-9289-3540e286cf0b/indian%2Bfood.webp?format=1500w": {
+      "file": "assets/023a696e46bf0caa2efa.webp",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/c1f01ed9-024d-4eaa-9289-3540e286cf0b/indian%2Bfood.webp?format=2500w": {
+      "file": "assets/a2ff61b0338181e79828.webp",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/003b05b0-ef59-4761-bc3a-4314e650a2c1/Archna%2BBecker%2BIndian%2BFood%2BTour.webp": {
+      "file": "assets/f847f0b1c4e02c4958ed.webp",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/003b05b0-ef59-4761-bc3a-4314e650a2c1/Archna%2BBecker%2BIndian%2BFood%2BTour.webp?format=100w": {
+      "file": "assets/72280b60cbe75c84c63e.webp",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/003b05b0-ef59-4761-bc3a-4314e650a2c1/Archna%2BBecker%2BIndian%2BFood%2BTour.webp?format=300w": {
+      "file": "assets/5ec7875ced7a0dacdbec.webp",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/003b05b0-ef59-4761-bc3a-4314e650a2c1/Archna%2BBecker%2BIndian%2BFood%2BTour.webp?format=500w": {
+      "file": "assets/05894dd46f2655f9cb1f.webp",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/003b05b0-ef59-4761-bc3a-4314e650a2c1/Archna%2BBecker%2BIndian%2BFood%2BTour.webp?format=750w": {
+      "file": "assets/112a85b0953c8953415d.webp",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/003b05b0-ef59-4761-bc3a-4314e650a2c1/Archna%2BBecker%2BIndian%2BFood%2BTour.webp?format=1000w": {
+      "file": "assets/1999342f2c636d8a50ac.webp",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/003b05b0-ef59-4761-bc3a-4314e650a2c1/Archna%2BBecker%2BIndian%2BFood%2BTour.webp?format=1500w": {
+      "file": "assets/252ff779365b2ffd58e3.webp",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/003b05b0-ef59-4761-bc3a-4314e650a2c1/Archna%2BBecker%2BIndian%2BFood%2BTour.webp?format=2500w": {
+      "file": "assets/1de86da7b233f6a034b2.webp",
+      "downloaded": true
+    },
+    "https://www.bhojanic.com/s/India-Food-tour-new.pdf": {
+      "file": "assets/53f111990d767e55d41a.pdf",
+      "downloaded": true
+    },
+    "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/70e9fcd9-2342-4534-bd95-5675fdf8b8bd_1045/website.components.code.styles.css": {
+      "file": "assets/a3350c8f675eb8aa7e0f.css",
+      "downloaded": true
+    },
+    "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/f181f1c2-df16-4105-a1cf-1e1a84844572_1323/website.components.spacer.styles.css": {
+      "file": "assets/2b285f990aefb562e69f.css",
+      "downloaded": true
+    },
+    "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.code/70e9fcd9-2342-4534-bd95-5675fdf8b8bd_1045/website.components.code.visitor.js": {
+      "file": "assets/fb10ddf2b7a8a8b02c9c.js",
+      "downloaded": true
+    },
+    "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/f181f1c2-df16-4105-a1cf-1e1a84844572_1323/website.components.spacer.visitor.js": {
+      "file": "assets/b3803882486512ea19c3.js",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1435608011957-I6S57RC2B74CI3WS13KE/Header2.jpg": {
+      "file": "assets/cbe6c06057c206f951bc.jpg",
+      "downloaded": true
+    },
+    "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.form/cf419ab5-3018-4a01-8b4d-11220bb899d6_1172/website.components.form.styles.css": {
+      "file": "assets/85cf852ed1e573eaf4cd.css",
+      "downloaded": true
+    },
+    "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.form/cf419ab5-3018-4a01-8b4d-11220bb899d6_1172/website.components.form.visitor.js": {
+      "file": "assets/9f0ff5bbe0de9ab903b1.js",
+      "downloaded": true
+    },
+    "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.horizontalrule/d8d5d8ca-26fc-4bf2-9cef-bf36f6a2da00_367/website.components.horizontalrule.styles.css": {
+      "file": "assets/7417075d8850a8ed2ef6.css",
+      "downloaded": true
+    },
+    "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.horizontalrule/d8d5d8ca-26fc-4bf2-9cef-bf36f6a2da00_367/website.components.horizontalrule.visitor.js": {
+      "file": "assets/31ae2fb5bdf00b1f76be.js",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519239431725-3WW266CHU9UBRHT4RX6X/Bhojanic_Web_CurryJam7.jpg": {
+      "file": "assets/bd0f34c4b159807256f3.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1518645245129-RGOVAT0TDDYKVXCB3CXH/image-asset.png": {
+      "file": "assets/8d9c71d3f545b620ba2b.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1518645245129-RGOVAT0TDDYKVXCB3CXH/image-asset.png?format=100w": {
+      "file": "assets/1de54b43c44ccfa8ed34.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1518645245129-RGOVAT0TDDYKVXCB3CXH/image-asset.png?format=300w": {
+      "file": "assets/d534695417e88da0b909.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1518645245129-RGOVAT0TDDYKVXCB3CXH/image-asset.png?format=500w": {
+      "file": "assets/7e6a5c85805c16127495.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1518645245129-RGOVAT0TDDYKVXCB3CXH/image-asset.png?format=750w": {
+      "file": "assets/77ff57c8c8997e321d1a.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1518645245129-RGOVAT0TDDYKVXCB3CXH/image-asset.png?format=1000w": {
+      "file": "assets/604a951a0c1e9e55ae55.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1518645245129-RGOVAT0TDDYKVXCB3CXH/image-asset.png?format=1500w": {
+      "file": "assets/7f0845c1e0329ed73f7c.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1518645245129-RGOVAT0TDDYKVXCB3CXH/image-asset.png?format=2500w": {
+      "file": "assets/7c565f4f6ce6c4bc3a45.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1517586867912-84J95L3R6FP5PMZR5PGZ/2018_JamCruise16_DaveVann_CurryJam": {
+      "file": "assets/1666e466ce9b77c97615.bin",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1517586867912-84J95L3R6FP5PMZR5PGZ/2018_JamCruise16_DaveVann_CurryJam?format=100w": {
+      "file": "assets/30cb5532ad82d8a10d1a.bin",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1517586867912-84J95L3R6FP5PMZR5PGZ/2018_JamCruise16_DaveVann_CurryJam?format=300w": {
+      "file": "assets/8ec4cad2879ab2f1cb20.bin",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1517586867912-84J95L3R6FP5PMZR5PGZ/2018_JamCruise16_DaveVann_CurryJam?format=500w": {
+      "file": "assets/b4515a379b89e3f8b267.bin",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1517586867912-84J95L3R6FP5PMZR5PGZ/2018_JamCruise16_DaveVann_CurryJam?format=750w": {
+      "file": "assets/26e63b7f39771382e257.bin",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1517586867912-84J95L3R6FP5PMZR5PGZ/2018_JamCruise16_DaveVann_CurryJam?format=1000w": {
+      "file": "assets/a4c4dd4a05c8c4e17175.bin",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1517586867912-84J95L3R6FP5PMZR5PGZ/2018_JamCruise16_DaveVann_CurryJam?format=1500w": {
+      "file": "assets/96d9efaaeb7301c2bca8.bin",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1517586867912-84J95L3R6FP5PMZR5PGZ/2018_JamCruise16_DaveVann_CurryJam?format=2500w": {
+      "file": "assets/44bd605b64b5f66e33ac.bin",
+      "downloaded": true
+    },
+    "https://www.bhojanic.com/universal/svg/lock-screen.svg": {
+      "file": "assets/fb54fd82fc349d9ffb63.svg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/9cdde9b9-724b-4dee-80da-9eab75fe6779/Archna%2BBecker%2BIndian%2BFood%2BTour%2BOrange.png": {
+      "file": "assets/4ce810957ad08431cd7c.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/9cdde9b9-724b-4dee-80da-9eab75fe6779/Archna%2BBecker%2BIndian%2BFood%2BTour%2BOrange.png?format=100w": {
+      "file": "assets/0a634734b70494e06b16.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/9cdde9b9-724b-4dee-80da-9eab75fe6779/Archna%2BBecker%2BIndian%2BFood%2BTour%2BOrange.png?format=300w": {
+      "file": "assets/7e2ecb6d0de2ee0b752e.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/9cdde9b9-724b-4dee-80da-9eab75fe6779/Archna%2BBecker%2BIndian%2BFood%2BTour%2BOrange.png?format=500w": {
+      "file": "assets/ab89c8ef59575fe0b86a.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/9cdde9b9-724b-4dee-80da-9eab75fe6779/Archna%2BBecker%2BIndian%2BFood%2BTour%2BOrange.png?format=750w": {
+      "file": "assets/35875b1683ba56c7ddc2.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/9cdde9b9-724b-4dee-80da-9eab75fe6779/Archna%2BBecker%2BIndian%2BFood%2BTour%2BOrange.png?format=1000w": {
+      "file": "assets/2807e79646909407776d.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/9cdde9b9-724b-4dee-80da-9eab75fe6779/Archna%2BBecker%2BIndian%2BFood%2BTour%2BOrange.png?format=1500w": {
+      "file": "assets/2bdbcddaa37288edc1f6.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/9cdde9b9-724b-4dee-80da-9eab75fe6779/Archna%2BBecker%2BIndian%2BFood%2BTour%2BOrange.png?format=2500w": {
+      "file": "assets/4dc4aaef221287feb6d6.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1755866340860-DH23RF3PO4SXMXRIGHQL/4.png": {
+      "file": "assets/2b653edff4f31a727bda.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1755866388577-U7444RAXI3GR07KQTSA6/5.png": {
+      "file": "assets/2a48e16a7a41dac096ee.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1755866401279-4YI93R7YLMZ228FSGM2C/6.png": {
+      "file": "assets/557936e4b8538466743d.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1755866412702-EFIKD8O9H4U7PTAFC8UD/7.png": {
+      "file": "assets/304f0ab3014efc541583.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1755866432762-OAVUMHNX9Q7UIJTDN11B/8.png": {
+      "file": "assets/e9c4898260ad8f1d534b.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1755866458899-EWPEVF0660O8BGCY9J1B/9.png": {
+      "file": "assets/e78952ad34f935a4bc5e.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1755866434550-BATMVL5L5VB0L9K7LILL/10.png": {
+      "file": "assets/ff3486b977212793b3ba.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1755866459871-CY1BVPQ88F31KYE3QH87/11.png": {
+      "file": "assets/b842da018e8bebcea5e2.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1755866483761-0H1FB4ULZ1EH5YSS55GI/12.png": {
+      "file": "assets/52bd25ddc09815d2495b.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1755866485707-ENKZRKHZVYTD0WP1JOLF/13.png": {
+      "file": "assets/c9f4021eec6e8337e99a.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1755866507741-TZAA22DX2CK01I4KSNEE/14.png": {
+      "file": "assets/8d057cf5a4c55ea8b4e4.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1755866509454-K71D531CJX7JB55GLSCG/15.png": {
+      "file": "assets/1b72d5d27f3d6019b82d.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1755866533014-MR4RDH2F71WB3YHLQART/16.png": {
+      "file": "assets/29aa5bcd11279eb63166.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1755866533947-0DNVJKD7SICGP60D16AO/17.png": {
+      "file": "assets/fb162e4247a61e5fb7b8.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1755866560061-8L0UFAFZH2NPYYA0D2TJ/18.png": {
+      "file": "assets/12d9038a07f094b8970f.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1755866590171-UTXLWHI1U6FHK2B3SY61/19.png": {
+      "file": "assets/d57894a2b8d01b7a7a3a.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1755866560407-23IGI0941Z1QS2EEWJO7/20.png": {
+      "file": "assets/d66b46c0d136fa9023a9.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1755866597193-Y070ZS1LN612U3BLT8HC/21.png": {
+      "file": "assets/5f1d16cfc1a001d40d03.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1755866610249-34R6R0ZZC8JSXTAQP4CA/22.png": {
+      "file": "assets/7880fe9ee7b3700b4c3c.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/2ffa3947-c641-497e-b2bc-1fdccd844a24/India+Food+Tour+Pattern+%281%29.png": {
+      "file": "assets/b328a9c7177b93f7518a.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/2ffa3947-c641-497e-b2bc-1fdccd844a24/India+Food+Tour+Pattern+%281%29.png?format=100w": {
+      "file": "assets/fb912e32eef0c0d0b4dc.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/2ffa3947-c641-497e-b2bc-1fdccd844a24/India+Food+Tour+Pattern+%281%29.png?format=300w": {
+      "file": "assets/8a3e09998b71cc875a09.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/2ffa3947-c641-497e-b2bc-1fdccd844a24/India+Food+Tour+Pattern+%281%29.png?format=500w": {
+      "file": "assets/018eeb6e86a27f6dc762.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/2ffa3947-c641-497e-b2bc-1fdccd844a24/India+Food+Tour+Pattern+%281%29.png?format=750w": {
+      "file": "assets/aa6eecd17373281f109f.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/2ffa3947-c641-497e-b2bc-1fdccd844a24/India+Food+Tour+Pattern+%281%29.png?format=1000w": {
+      "file": "assets/58c1299fe03088f98a94.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/2ffa3947-c641-497e-b2bc-1fdccd844a24/India+Food+Tour+Pattern+%281%29.png?format=1500w": {
+      "file": "assets/8d1b68210d6a107807e8.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/2ffa3947-c641-497e-b2bc-1fdccd844a24/India+Food+Tour+Pattern+%281%29.png?format=2500w": {
+      "file": "assets/2514d1630c97b7556b26.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519927566810-Q9USAFR7ST60UVHUZ3N9/01-19-18_DPV_5584_Jam_Cruise_16_Curry_Jam_by_Dave_Vann.jpg": {
+      "file": "assets/51458fd218d487eaa38d.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519927621624-GISMYK5EPJUHNXUJ1NDB/01-19-18_DPV_5586_Jam_Cruise_16_Curry_Jam_by_Dave_Vann+%281%29.jpg": {
+      "file": "assets/1328705ede50c330962a.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519927590668-D96VL4J474I16ZW875DN/01-19-18_DPV_5375_Jam_Cruise_16_Curry_Jam_by_Dave_Vann+%281%29.jpg": {
+      "file": "assets/61c50393b30e41af778e.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519927591693-JWWM0THD5B5BLBI0R9P4/01-19-18_DPV_5543_Jam_Cruise_16_Curry_Jam_by_Dave_Vann.jpg": {
+      "file": "assets/51e967150926923b0fd7.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519927586072-06O5AGHRLLG5GH056PTC/01-19-18_DPV_5348_Jam_Cruise_16_Curry_Jam_by_Dave_Vann.jpg": {
+      "file": "assets/56698d1aeb43b548d9db.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519927595401-6UJ2D28C1PV5B8FSMR0R/01-19-18_DPV_5545_Jam_Cruise_16_Curry_Jam_by_Dave_Vann.jpg": {
+      "file": "assets/2a54902f8bb8854321ad.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519927649130-BWZM9MR6FWKITA0AQC2G/01-19-18_DPV_5551_Jam_Cruise_16_Curry_Jam_by_Dave_Vann.jpg": {
+      "file": "assets/69732f3a85bb166dc5b1.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519927649809-I0ZIUHP9W9K4GNCMGA3Z/01-19-18_DPV_5554_Jam_Cruise_16_Curry_Jam_by_Dave_Vann.jpg": {
+      "file": "assets/3b1412ff27d226776c79.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519927655253-O06D4STPPVOC2931X821/01-19-18_DPV_5558_Jam_Cruise_16_Curry_Jam_by_Dave_Vann.jpg": {
+      "file": "assets/4b767278341c6834688c.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519927660017-6UZL69TLBMCEK73P69WV/01-19-18_DPV_5573_Jam_Cruise_16_Curry_Jam_by_Dave_Vann.jpg": {
+      "file": "assets/72802112d70dc33b4983.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519927660324-FIHQCEYDVZ9JMO2CK9PC/01-19-18_DPV_5581_Jam_Cruise_16_Curry_Jam_by_Dave_Vann.jpg": {
+      "file": "assets/9065ae9e1e4bbf2cb629.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519927756980-HIJ1A5NIZVL2GCN9SJZ9/IMG_1341.jpg": {
+      "file": "assets/d4b1a8764414cbfbc354.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519927794392-73OSPHHNZPMMWAFPN214/JC16_Curry+Jam_6_%C2%A9dremieres.jpg": {
+      "file": "assets/be56e0feec1239beee43.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519927824087-3WU9POQEBQW0XUH9G872/JC16_Curry+Jam_2_%C2%A9dremieres.jpg": {
+      "file": "assets/633844c1308a52752f79.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519927822794-GQZR2JHY4WL3E9RL0HB6/JC16_Curry+Jam_3_%C2%A9dremieres.jpg": {
+      "file": "assets/780a382e490e5357353f.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519927828572-S578DLGSB98XHP15ZCUE/JC16_Curry+Jam_4_%C2%A9dremieres.jpg": {
+      "file": "assets/1246c3c3711bf0bcace5.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519928025102-22NY3I5KHE068S8G5PMJ/IMG_1361.jpg": {
+      "file": "assets/695a380eb53741aa0928.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519928056982-L87PMPA6RCLFOV69VOVF/IMG_1352.jpg": {
+      "file": "assets/aa74f8bc3d1c852cbed1.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519927829601-X2C57PV88TOQRN2E7H2Z/JC16_Curry+Jam_5_%C2%A9dremieres.jpg": {
+      "file": "assets/b16dee08459055dde0ca.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519928085880-9ZCADTOUBJ79HQ9F6KBQ/IMG_1395.jpg": {
+      "file": "assets/4f12b8fd6abc9a47ed22.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519256806477-D0K66VXCP3I5IRQ4QQ5Y/01-19-18_DPV_5545_Jam_Cruise_16_Curry_Jam_by_Dave_Vann.jpg": {
+      "file": "assets/6aa2cd3d4123cf091200.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519256806477-D0K66VXCP3I5IRQ4QQ5Y/01-19-18_DPV_5545_Jam_Cruise_16_Curry_Jam_by_Dave_Vann.jpg?format=100w": {
+      "file": "assets/f17922335b302d9cf6d0.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519256806477-D0K66VXCP3I5IRQ4QQ5Y/01-19-18_DPV_5545_Jam_Cruise_16_Curry_Jam_by_Dave_Vann.jpg?format=300w": {
+      "file": "assets/c8bd38e9f19b3ae4a670.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519256806477-D0K66VXCP3I5IRQ4QQ5Y/01-19-18_DPV_5545_Jam_Cruise_16_Curry_Jam_by_Dave_Vann.jpg?format=500w": {
+      "file": "assets/319cf2d49c3f0959d7ba.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519256806477-D0K66VXCP3I5IRQ4QQ5Y/01-19-18_DPV_5545_Jam_Cruise_16_Curry_Jam_by_Dave_Vann.jpg?format=750w": {
+      "file": "assets/a314ca54e62cd34757a3.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519256806477-D0K66VXCP3I5IRQ4QQ5Y/01-19-18_DPV_5545_Jam_Cruise_16_Curry_Jam_by_Dave_Vann.jpg?format=1000w": {
+      "file": "assets/7e0eb37e97d3ba621740.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519256806477-D0K66VXCP3I5IRQ4QQ5Y/01-19-18_DPV_5545_Jam_Cruise_16_Curry_Jam_by_Dave_Vann.jpg?format=1500w": {
+      "file": "assets/ba1b6ae5478434f6d3c4.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519256806477-D0K66VXCP3I5IRQ4QQ5Y/01-19-18_DPV_5545_Jam_Cruise_16_Curry_Jam_by_Dave_Vann.jpg?format=2500w": {
+      "file": "assets/9324fb6aa13556304dd4.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1517605722405-54K712F73P4GQSMDRO0W/Eddie.jpg": {
+      "file": "assets/bf0a08b2d3c58c05b35a.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1517605722405-54K712F73P4GQSMDRO0W/Eddie.jpg?format=100w": {
+      "file": "assets/818f13e75173e1408bcd.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1517605722405-54K712F73P4GQSMDRO0W/Eddie.jpg?format=300w": {
+      "file": "assets/103aa56f88669c47e72e.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1517605722405-54K712F73P4GQSMDRO0W/Eddie.jpg?format=500w": {
+      "file": "assets/78a7a734a7f69c7f510a.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1517605722405-54K712F73P4GQSMDRO0W/Eddie.jpg?format=750w": {
+      "file": "assets/5ca040530cc3e9c978ba.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1517605722405-54K712F73P4GQSMDRO0W/Eddie.jpg?format=1000w": {
+      "file": "assets/24d9cae91ee1b6c3b2f4.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1517605722405-54K712F73P4GQSMDRO0W/Eddie.jpg?format=1500w": {
+      "file": "assets/ad708597a9fb4328574c.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1517605722405-54K712F73P4GQSMDRO0W/Eddie.jpg?format=2500w": {
+      "file": "assets/e6bf168be7a6aa69ef74.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519927140666-OJ6GCR08E72QQKZ2UPF5/01-19-18_DPV_5551_Jam_Cruise_16_Curry_Jam_by_Dave_Vann.jpg": {
+      "file": "assets/2d4341bbed9f49636fc2.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519927140666-OJ6GCR08E72QQKZ2UPF5/01-19-18_DPV_5551_Jam_Cruise_16_Curry_Jam_by_Dave_Vann.jpg?format=100w": {
+      "file": "assets/8cbbb5fe9cb2dc647732.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519927140666-OJ6GCR08E72QQKZ2UPF5/01-19-18_DPV_5551_Jam_Cruise_16_Curry_Jam_by_Dave_Vann.jpg?format=300w": {
+      "file": "assets/e4d03473161bf6445d06.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519927140666-OJ6GCR08E72QQKZ2UPF5/01-19-18_DPV_5551_Jam_Cruise_16_Curry_Jam_by_Dave_Vann.jpg?format=500w": {
+      "file": "assets/a790de89eea9b4e212cb.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519927140666-OJ6GCR08E72QQKZ2UPF5/01-19-18_DPV_5551_Jam_Cruise_16_Curry_Jam_by_Dave_Vann.jpg?format=750w": {
+      "file": "assets/5f4c1aa2533318c7f528.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519927140666-OJ6GCR08E72QQKZ2UPF5/01-19-18_DPV_5551_Jam_Cruise_16_Curry_Jam_by_Dave_Vann.jpg?format=1000w": {
+      "file": "assets/0e190b0de885e996855b.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519927140666-OJ6GCR08E72QQKZ2UPF5/01-19-18_DPV_5551_Jam_Cruise_16_Curry_Jam_by_Dave_Vann.jpg?format=1500w": {
+      "file": "assets/0099562a362cb3e10713.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519927140666-OJ6GCR08E72QQKZ2UPF5/01-19-18_DPV_5551_Jam_Cruise_16_Curry_Jam_by_Dave_Vann.jpg?format=2500w": {
+      "file": "assets/7af3f272253a02027b79.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1517605737658-P5NSIRD9TGIDLJYEUW4Y/DJLogic.jpg": {
+      "file": "assets/8f3f4340728e12fbe8b6.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1517605737658-P5NSIRD9TGIDLJYEUW4Y/DJLogic.jpg?format=100w": {
+      "file": "assets/d99c267d9fdf163cb794.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1517605737658-P5NSIRD9TGIDLJYEUW4Y/DJLogic.jpg?format=300w": {
+      "file": "assets/3da96bbc44b9c7ab0871.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1517605737658-P5NSIRD9TGIDLJYEUW4Y/DJLogic.jpg?format=500w": {
+      "file": "assets/b8dc07623b6b524db0c0.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1517605737658-P5NSIRD9TGIDLJYEUW4Y/DJLogic.jpg?format=750w": {
+      "file": "assets/7594c58ee56a1f869896.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1517605737658-P5NSIRD9TGIDLJYEUW4Y/DJLogic.jpg?format=1000w": {
+      "file": "assets/06a10e9990c9747a6f44.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1517605737658-P5NSIRD9TGIDLJYEUW4Y/DJLogic.jpg?format=1500w": {
+      "file": "assets/a765704f747ccd174b8f.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1517605737658-P5NSIRD9TGIDLJYEUW4Y/DJLogic.jpg?format=2500w": {
+      "file": "assets/edba8e517dca1478c74a.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519927187680-VI57CTUUGZNTI1GNA77K/DrinksHeader2.jpg": {
+      "file": "assets/54356ecf66c4b15d0c9a.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519927187680-VI57CTUUGZNTI1GNA77K/DrinksHeader2.jpg?format=100w": {
+      "file": "assets/977a0e457036859dea9a.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519927187680-VI57CTUUGZNTI1GNA77K/DrinksHeader2.jpg?format=300w": {
+      "file": "assets/6c757a97e6a077057090.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519927187680-VI57CTUUGZNTI1GNA77K/DrinksHeader2.jpg?format=500w": {
+      "file": "assets/8912bfa5f14722063a25.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519927187680-VI57CTUUGZNTI1GNA77K/DrinksHeader2.jpg?format=750w": {
+      "file": "assets/8a51d6e73f6fbc131189.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519927187680-VI57CTUUGZNTI1GNA77K/DrinksHeader2.jpg?format=1000w": {
+      "file": "assets/3b427a0d8c49b9a2fdd2.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519927187680-VI57CTUUGZNTI1GNA77K/DrinksHeader2.jpg?format=1500w": {
+      "file": "assets/3ddd5ffaf60abc9cd988.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519927187680-VI57CTUUGZNTI1GNA77K/DrinksHeader2.jpg?format=2500w": {
+      "file": "assets/c7cc39a1ef5183f36ee2.jpg",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-905cafe471c8f47a-min.en-US.js": {
+      "file": "assets/c2f3377d6bc3416382c0.js",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/scripts-compressed/performance-32ff9b3687b22e87-min.en-US.js": {
+      "file": "assets/e390b87665fa42158291.js",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1517594977562-W7XZRC85ZWH6M3WU64MD/Bhojanic_Web_CurryJam.jpg": {
+      "file": "assets/c0d2f4a69a429538b6c0.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519257158869-3JU0V4XB5HQH0XZB789B/01-19-18_DPV_5545_Jam_Cruise_16_Curry_Jam_by_Dave_Vann.jpg": {
+      "file": "assets/6b39528375d99614d211.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519257158869-3JU0V4XB5HQH0XZB789B/01-19-18_DPV_5545_Jam_Cruise_16_Curry_Jam_by_Dave_Vann.jpg?format=100w": {
+      "file": "assets/901d98d5d945a4b7c612.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519257158869-3JU0V4XB5HQH0XZB789B/01-19-18_DPV_5545_Jam_Cruise_16_Curry_Jam_by_Dave_Vann.jpg?format=300w": {
+      "file": "assets/5ee73847bcaa262ae573.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519257158869-3JU0V4XB5HQH0XZB789B/01-19-18_DPV_5545_Jam_Cruise_16_Curry_Jam_by_Dave_Vann.jpg?format=500w": {
+      "file": "assets/e42f2c3936c3498db923.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519257158869-3JU0V4XB5HQH0XZB789B/01-19-18_DPV_5545_Jam_Cruise_16_Curry_Jam_by_Dave_Vann.jpg?format=750w": {
+      "file": "assets/8a5104438586983a0ec9.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519257158869-3JU0V4XB5HQH0XZB789B/01-19-18_DPV_5545_Jam_Cruise_16_Curry_Jam_by_Dave_Vann.jpg?format=1000w": {
+      "file": "assets/085af66969d5d7708fa0.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519257158869-3JU0V4XB5HQH0XZB789B/01-19-18_DPV_5545_Jam_Cruise_16_Curry_Jam_by_Dave_Vann.jpg?format=1500w": {
+      "file": "assets/890c1556efb36598bc70.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519257158869-3JU0V4XB5HQH0XZB789B/01-19-18_DPV_5545_Jam_Cruise_16_Curry_Jam_by_Dave_Vann.jpg?format=2500w": {
+      "file": "assets/1b2b35a1a0ed9e6dfc37.jpg",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-353939729a97dce3-min.en-US.js": {
+      "file": "assets/bacb6e59e5f26e167bcc.js",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/scripts-compressed/performance-4bf7b111c65e1191-min.en-US.js": {
+      "file": "assets/143a2a0cf77fe93117f9.js",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1517610386180-IRA0EXFWC8UJDLY11L3B/Eddie.jpg": {
+      "file": "assets/8854377f4af52f1d91b4.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1517610386180-IRA0EXFWC8UJDLY11L3B/Eddie.jpg?format=100w": {
+      "file": "assets/c6c3675c421e7ff20856.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1517610386180-IRA0EXFWC8UJDLY11L3B/Eddie.jpg?format=300w": {
+      "file": "assets/f1781ed83f519b8a2134.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1517610386180-IRA0EXFWC8UJDLY11L3B/Eddie.jpg?format=500w": {
+      "file": "assets/beadc337e3beb1716122.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1517610386180-IRA0EXFWC8UJDLY11L3B/Eddie.jpg?format=750w": {
+      "file": "assets/bd377e7cab1fb3b9e066.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1517610386180-IRA0EXFWC8UJDLY11L3B/Eddie.jpg?format=1000w": {
+      "file": "assets/e2d386c1b4e6f5b7644c.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1517610386180-IRA0EXFWC8UJDLY11L3B/Eddie.jpg?format=1500w": {
+      "file": "assets/a598ccac529913f4a657.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1517610386180-IRA0EXFWC8UJDLY11L3B/Eddie.jpg?format=2500w": {
+      "file": "assets/2caa4225694a5adf04dd.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1517613603867-KSF5TWMJWNHF0B5Z9IJW/Roosevelt.jpg": {
+      "file": "assets/52399a5eb6ed46e99e5d.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1517613603867-KSF5TWMJWNHF0B5Z9IJW/Roosevelt.jpg?format=100w": {
+      "file": "assets/98c18bc9fd8249fcdb54.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1517613603867-KSF5TWMJWNHF0B5Z9IJW/Roosevelt.jpg?format=300w": {
+      "file": "assets/57105ea86aedc4a1cef9.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1517613603867-KSF5TWMJWNHF0B5Z9IJW/Roosevelt.jpg?format=500w": {
+      "file": "assets/8882280e0b142620d33d.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1517613603867-KSF5TWMJWNHF0B5Z9IJW/Roosevelt.jpg?format=750w": {
+      "file": "assets/4b671cebd01beb862257.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1517613603867-KSF5TWMJWNHF0B5Z9IJW/Roosevelt.jpg?format=1000w": {
+      "file": "assets/905e4af85b6401384a73.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1517613603867-KSF5TWMJWNHF0B5Z9IJW/Roosevelt.jpg?format=1500w": {
+      "file": "assets/d07e91974cbf503106e5.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1517613603867-KSF5TWMJWNHF0B5Z9IJW/Roosevelt.jpg?format=2500w": {
+      "file": "assets/5e0f1b357e90ea44bd7b.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519257291742-HGASWCX1DRHIMQ4I0867/01-19-18_DPV_5343_Jam_Cruise_16_Curry_Jam_by_Dave_Vann.jpg": {
+      "file": "assets/80cfb63e2df594744055.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519257291742-HGASWCX1DRHIMQ4I0867/01-19-18_DPV_5343_Jam_Cruise_16_Curry_Jam_by_Dave_Vann.jpg?format=100w": {
+      "file": "assets/46416ff45ce92a311ba3.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519257291742-HGASWCX1DRHIMQ4I0867/01-19-18_DPV_5343_Jam_Cruise_16_Curry_Jam_by_Dave_Vann.jpg?format=300w": {
+      "file": "assets/a18aff55bb1191f5bcd8.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519257291742-HGASWCX1DRHIMQ4I0867/01-19-18_DPV_5343_Jam_Cruise_16_Curry_Jam_by_Dave_Vann.jpg?format=500w": {
+      "file": "assets/64e0d0714ca451654c18.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519257291742-HGASWCX1DRHIMQ4I0867/01-19-18_DPV_5343_Jam_Cruise_16_Curry_Jam_by_Dave_Vann.jpg?format=750w": {
+      "file": "assets/5a51d77eb5bb96a3fcf7.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519257291742-HGASWCX1DRHIMQ4I0867/01-19-18_DPV_5343_Jam_Cruise_16_Curry_Jam_by_Dave_Vann.jpg?format=1000w": {
+      "file": "assets/006511b05d99235a23c6.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519257291742-HGASWCX1DRHIMQ4I0867/01-19-18_DPV_5343_Jam_Cruise_16_Curry_Jam_by_Dave_Vann.jpg?format=1500w": {
+      "file": "assets/0bb65855552ec36418e7.jpg",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/v1/54626441e4b04efe6286795d/1519257291742-HGASWCX1DRHIMQ4I0867/01-19-18_DPV_5343_Jam_Cruise_16_Curry_Jam_by_Dave_Vann.jpg?format=2500w": {
+      "file": "assets/8c60b094bb5d5d722180.jpg",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/images-v6/standard/icon_close_7_light.png": {
+      "file": "assets/2c5b0ec5e20f18adfc57.png",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/images-v6/damask/cart-16-light.png": {
+      "file": "assets/cd0e8986ada7a545781a.png",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/images-v6/damask/cart-32-light.png": {
+      "file": "assets/bf1ac3929c2ace398a36.png",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/images-v6/icons/icon-cart-18-dark.png": {
+      "file": "assets/8a0016f30063bace585a.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/54626441e4b04efe6286795d/f02773b1-e721-40c3-b460-07043f459e79/Archna-Background.png": {
+      "file": "assets/77e0ae97062e276c650c.png",
+      "downloaded": true
+    },
+    "https://images.squarespace-cdn.com/content/54626441e4b04efe6286795d/cf87bcb4-c02e-4a61-808b-300d328e324e/Archna-Background-Green.png": {
+      "file": "assets/940562d0828943926eeb.png",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/images-v6/damask/error-dark.png": {
+      "file": "assets/678af680adca208a6e77.png",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/images-v6/damask/error-dark@2x.png": {
+      "file": "assets/850048a1b8b387e97935.png",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/images-v6/damask/play-button.png": {
+      "file": "assets/0c29686cdd65c5477fc4.png",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/images-v6/damask/play-button@2x.png": {
+      "file": "assets/694fa1986887f263a696.png",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/images-v6/damask/edit-aviary-light.png": {
+      "file": "assets/f99b85facdd090f7182b.png",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/images-v6/damask/edit-aviary-light@2x.png": {
+      "file": "assets/d1b7b16844c8b97e0b53.png",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/images-v6/damask/edit-info-light.png": {
+      "file": "assets/6515a4ce4f788135d79b.png",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/images-v6/damask/edit-info-light@2x.png": {
+      "file": "assets/a1c0f7e16624f7d9620a.png",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/images-v6/damask/trash-9-light.png": {
+      "file": "assets/7de341a02b666e0236c1.png",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/images-v6/damask/trash-9-light@2x.png": {
+      "file": "assets/21ae801bf463f5fead83.png",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/images-v6/damask/trash-9-red.png": {
+      "file": "assets/e7c12df618b74034095b.png",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/images-v6/damask/trash-9-red@2x.png": {
+      "file": "assets/c30ee415aa70074fa0ab.png",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/images-v6/damask/getty-16-light.png": {
+      "file": "assets/3553a412961630b10b66.png",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/images-v6/damask/getty-32-light.png": {
+      "file": "assets/8bd31ed280f39a64df29.png",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/images-v6/damask/shopping-cart-16-light.png": {
+      "file": "assets/a9a4147de3d66a11b230.png",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/images-v6/damask/shopping-cart-32-light.png": {
+      "file": "assets/171b1e46a8a23a1c1322.png",
+      "downloaded": true
+    },
+    "https://static1.squarespace.com/universal/images-v6/icons/block-indicator-dark.png": {
+      "file": "assets/653ce462f0e9fdd5335b.png",
+      "downloaded": true
+    },
+    "https://static1.squarespace.com/universal/images-v6/icons/block-indicator-dark@2x.png": {
+      "file": "assets/4106c84e9c46e79cc5b7.png",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/fonts/squarespace-ui-font.eot": {
+      "file": "assets/d5932607ef34e8fb3def.eot",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/fonts/squarespace-ui-font.eot?": {
+      "file": "assets/35b91f04e1b3f4ddf591.eot",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/fonts/squarespace-ui-font.svg": {
+      "file": "assets/1c4a02464f78c114609d.svg",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/fonts/squarespace-ui-font.woff": {
+      "file": "assets/c158324d496a38dea4a7.woff",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/fonts/squarespace-ui-font.ttf": {
+      "file": "assets/6be7dc4fb7c86105bf93.ttf",
+      "downloaded": true
+    },
+    "https://static1.squarespace.com/universal/images-v6/icons/opentable-icons.svg": {
+      "file": "assets/64d30aa90d0474f45e90.svg",
+      "downloaded": true
+    },
+    "https://static1.squarespace.com/universal/images-v6/icons/opentable-icons.png": {
+      "file": "assets/7dc03ad9bd5db90c7c12.png",
+      "downloaded": true
+    },
+    "https://static1.squarespace.com/universal/images-v6/icons/icon-searchqueries-20-dark.png": {
+      "file": "assets/62c938bd17542e01c33b.png",
+      "downloaded": true
+    },
+    "https://static1.squarespace.com/universal/images-v6/icons/icon-searchqueries-20-light.png": {
+      "file": "assets/233674a4555bf47fa7a0.png",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/images-v6/icons/icon-video-24-light-solid.png": {
+      "file": "assets/bb495ad459c5106b25c9.png",
+      "downloaded": true
+    },
+    "https://static1.squarespace.com/universal/images-v6/damask/image-inside-64-dark.png": {
+      "file": "assets/079b1d006c7e6824c059.png",
+      "downloaded": true
+    },
+    "https://static1.squarespace.com/universal/images-v6/damask/image-inside-128-dark.png": {
+      "file": "assets/a2d800358f3fe7470aaa.png",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/images-v6/icons/icon-settings-16-light.png": {
+      "file": "assets/59e2e088dd39e2d6c3dc.png",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.eot": {
+      "file": "assets/12d9be9114f0259f2527.eot",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.eot?": {
+      "file": "assets/05e51e1bf5754e025de3.eot",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.woff": {
+      "file": "assets/4eab0365594a66c73f29.woff",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.ttf": {
+      "file": "assets/cdfa7a19a0ea93c1b9ca.ttf",
+      "downloaded": true
+    },
+    "https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.svg": {
+      "file": "assets/6c3cdd2dc67ba87903e1.svg",
+      "downloaded": true
+    }
+  },
+  "failures": [],
+  "design": "Bhojanic — A little spice. A lot of soul."
+}

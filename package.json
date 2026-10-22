@@ -1,0 +1,14 @@
+{
+  "name": "bhojanic-replica",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-design.mjs",
+    "build:pages": "node scripts/build-design.mjs && node scripts/build-pages.mjs",
+    "start": "node scripts/serve.mjs",
+    "dev": "node scripts/serve.mjs",
+    "mirror": "node scripts/mirror.mjs",
+    "check": "node scripts/check.mjs"
+  }
+}
