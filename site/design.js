@@ -1,5 +1,6 @@
 const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)');
 let motionPreference = null;
+let syncRibbonMotion = () => {};
 try { motionPreference = localStorage.getItem('bhojanic-motion'); } catch {}
 const motionIsReduced = () => motionPreference === 'reduced' || (motionPreference !== 'full' && reducedMotion.matches);
 document.documentElement.classList.toggle('reduce-motion', motionIsReduced());
@@ -10,6 +11,7 @@ const syncMotion = () => {
   document.documentElement.classList.toggle('reduce-motion', motionIsReduced());
   motionToggle.textContent = motionIsReduced() ? 'Enable animations' : 'Reduce motion';
   motionToggle.setAttribute('aria-pressed', String(!motionIsReduced()));
+  syncRibbonMotion();
 };
 motionToggle.addEventListener('click', () => {
   motionPreference = motionIsReduced() ? 'full' : 'reduced';
@@ -84,12 +86,25 @@ updateScroll();
 const ribbon = document.querySelector('.flavor-ribbon');
 if (ribbon) {
   const toggle = ribbon.querySelector('.ribbon-toggle');
+  let ribbonPreference = null;
+  try { ribbonPreference = localStorage.getItem('bhojanic-ribbon-motion'); } catch {}
+  syncRibbonMotion = () => {
+    const running = ribbonPreference === 'running' || (ribbonPreference !== 'paused' && !motionIsReduced());
+    ribbon.classList.toggle('ribbon-motion-on', running);
+    ribbon.classList.toggle('is-paused', !running);
+    toggle.removeAttribute('aria-pressed');
+    toggle.setAttribute('aria-label', running ? 'Pause scrolling text' : 'Play scrolling text');
+    toggle.querySelector('span').textContent = running ? 'Ⅱ Pause' : '▶ Play';
+  };
   toggle.addEventListener('click', () => {
-    const paused = ribbon.classList.toggle('is-paused');
-    toggle.setAttribute('aria-pressed', String(paused));
-    toggle.setAttribute('aria-label', paused ? 'Resume scrolling text' : 'Pause scrolling text');
-    toggle.querySelector('span').textContent = paused ? '▶' : 'Ⅱ';
+    ribbonPreference = ribbon.classList.contains('ribbon-motion-on') ? 'paused' : 'running';
+    try { localStorage.setItem('bhojanic-ribbon-motion', ribbonPreference); } catch {}
+    syncRibbonMotion();
   });
+  addEventListener('storage', event => {
+    if (event.key === 'bhojanic-ribbon-motion') { ribbonPreference = event.newValue; syncRibbonMotion(); }
+  });
+  syncRibbonMotion();
 }
 
 // Reveal only once; the fallback is always fully readable.
