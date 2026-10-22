@@ -9,6 +9,9 @@ let references = 0;
 const home = await fs.readFile(path.join(root, 'home-page/index.html'), 'utf8');
 assert.ok(home.includes('class="ribbon-track"'), 'Home retains the scrolling ribbon');
 assert.ok(!home.includes('ribbon-toggle'), 'Ribbon has no inline play/pause button');
+const designScript = await fs.readFile(path.join(root, 'design.js'), 'utf8');
+assert.ok(!designScript.includes('motion-toggle'), 'No footer motion control');
+assert.ok(!designScript.includes('bhojanic-motion'), 'Previous stored motion preferences cannot stop the ribbon');
 // Brunch uses h3 station headings and bullet paragraphs in the source.
 // Its introduction must not swallow and duplicate the station content.
 const brunch = await fs.readFile(path.join(root, 'american-menu/index.html'), 'utf8');

@@ -1,25 +1,7 @@
-const reducedMotion = matchMedia('(prefers-reduced-motion: reduce)');
-let motionPreference = null;
-try { motionPreference = localStorage.getItem('bhojanic-motion'); } catch {}
-const motionIsReduced = () => motionPreference === 'reduced' || (motionPreference !== 'full' && reducedMotion.matches);
-document.documentElement.classList.toggle('reduce-motion', motionIsReduced());
-const motionToggle = document.createElement('button');
-motionToggle.type = 'button';
-motionToggle.className = 'motion-toggle';
-const syncMotion = () => {
-  document.documentElement.classList.toggle('reduce-motion', motionIsReduced());
-  motionToggle.textContent = motionIsReduced() ? 'Enable animations' : 'Reduce motion';
-  motionToggle.setAttribute('aria-pressed', String(!motionIsReduced()));
-};
-motionToggle.addEventListener('click', () => {
-  motionPreference = motionIsReduced() ? 'full' : 'reduced';
-  try { localStorage.setItem('bhojanic-motion', motionPreference); } catch {}
-  syncMotion();
-});
-document.querySelector('.footer-bottom > div').append(motionToggle);
-reducedMotion.addEventListener('change', syncMotion);
-addEventListener('storage', event => { if (event.key === 'bhojanic-motion') { motionPreference = event.newValue; syncMotion(); } });
-syncMotion();
+// Motion is always enabled for this design; no visitor-facing motion controls.
+// Ignore preferences stored by earlier versions of the preview.
+const motionIsReduced = () => false;
+document.documentElement.classList.remove('reduce-motion');
 const finePointer = matchMedia('(hover: hover) and (pointer: fine)');
 const header = document.querySelector('.site-header');
 const mobileToggle = document.querySelector('.mobile-toggle');
@@ -88,7 +70,6 @@ if ('IntersectionObserver' in window && !motionIsReduced()) {
     for (const entry of entries) if (entry.isIntersecting) { entry.target.classList.add('is-visible'); revealObserver.unobserve(entry.target); }
   }, { threshold: .08, rootMargin: '0px 0px -25px 0px' });
   document.querySelectorAll('[data-reveal]').forEach(el => revealObserver.observe(el));
-  reducedMotion.addEventListener('change', () => { if (motionIsReduced()) { document.documentElement.classList.remove('motion-ready'); revealObserver.disconnect(); } });
 }
 
 // Menu search filters the actual preserved menu text.

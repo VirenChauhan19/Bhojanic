@@ -68,8 +68,6 @@ em { color: #e37435; }
   .journey-bg::after { background: linear-gradient(90deg, #222222df, #22222255); }
 }
 .reduce-motion .ribbon-track { animation: none; }
-.motion-toggle { padding: 0; font: inherit; color: inherit; text-decoration: underline; text-underline-offset: 3px; }
-.motion-toggle:hover { color: var(--orange-ink); }
 
 /* A single, stable photograph keeps the opening composition clean. */
 .hero-art { margin-left: 0; padding-bottom: 32px; }
