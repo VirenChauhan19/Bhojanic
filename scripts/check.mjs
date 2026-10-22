@@ -9,6 +9,7 @@ let references = 0;
 const home = await fs.readFile(path.join(root, 'home-page/index.html'), 'utf8');
 assert.ok(home.includes('class="ribbon-track"'), 'Home retains the scrolling ribbon');
 assert.ok(!home.includes('ribbon-toggle'), 'Ribbon has no inline play/pause button');
+assert.ok(home.includes('class="link-arrow"'), 'Links use consistent SVG arrows');
 const designScript = await fs.readFile(path.join(root, 'design.js'), 'utf8');
 assert.ok(!designScript.includes('motion-toggle'), 'No footer motion control');
 assert.ok(!designScript.includes('bhojanic-motion'), 'Previous stored motion preferences cannot stop the ribbon');
@@ -28,6 +29,7 @@ assert.equal(new Set(mediterraneanIds).size, mediterraneanIds.length, 'Repeated 
 for (const route of manifest.pages) {
   const filename = path.join(root, route === '/' ? 'index.html' : route.slice(1) + '/index.html');
   const html = await fs.readFile(filename, 'utf8');
+  assert.ok(!html.includes('↗'), `${route} has no platform-dependent diagonal arrow glyphs`);
   assert.match(html, /<title>.+<\/title>/s, `${route} has a title`);
   for (const match of html.matchAll(/\b(?:src|href|data-src|xlink:href)=["'](\/[^"']*)["']/g)) {
     if (match[1].startsWith('//')) continue;

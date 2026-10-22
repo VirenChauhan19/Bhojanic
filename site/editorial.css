@@ -12,6 +12,11 @@ h1, h2, h3 { font-weight: 400; letter-spacing: -.045em; }
 .button:hover { box-shadow: none; }
 .button-small { font-size: 14px; padding: 14px 19px; }
 .button > span:last-child { font-size: 22px; }
+.link-arrow { display: inline-flex; align-items: center; justify-content: center; flex: 0 0 21px; width: 21px; height: 21px; vertical-align: -.2em; line-height: 1; }
+.link-arrow svg { display: block; width: 100%; height: 100%; overflow: visible; }
+.button > .link-arrow, .text-link > .link-arrow { align-self: center; }
+.footer-top .link-arrow, .footer-bottom .link-arrow { width: 16px; height: 16px; flex-basis: 16px; margin-left: 3px; }
+.contact-info > a { display: inline-flex; align-items: center; gap: 10px; }
 .text-link { font-size: 15px; gap: 22px; padding-block: 10px; }
 .dropdown-panel { top: calc(100% + 12px); padding: 25px 28px; box-shadow: 0 12px 24px #3435340d; }
 .dropdown-panel > a { padding-block: 12px; }
@@ -185,7 +190,9 @@ html.motion-ready [data-reveal] { transform: translateY(18px); transition-durati
 @media (max-width: 640px) {
   .header-inner, .scrolled .header-inner { min-height: 74px; padding-block: 12px; }
   .brand { width: 145px; }
-  .header-actions .button-small { padding: 11px 12px; }
+  .header-actions .button-small { display: none; }
+  .mobile-toggle { width: 44px; height: 44px; align-items: center; }
+  .mobile-nav > a > .link-arrow { width: 25px; height: 25px; flex-basis: 25px; }
   .mobile-nav > a { font-size: 28px; }
   .mobile-nav-bottom { font-size: 13px; }
   .opening { padding-block: 24px 26px; }
@@ -195,8 +202,10 @@ html.motion-ready [data-reveal] { transform: translateY(18px); transition-durati
   .opening h1 { font-size: clamp(62px, 17vw, 94px); line-height: .99; letter-spacing: -.055em; }
   .opening-copy { max-width: 370px; }
   .opening-copy p { font-size: 16px; line-height: 1.75; }
-  .opening-copy > .button { margin-top: 22px; font-size: 14px; padding: 16px 20px; }
-  .opening-copy > .text-link { font-size: 14px; margin-top: 5px; }
+  .opening-copy > .button { width: 100%; min-height: 54px; margin-top: 22px; font-size: 15px; padding: 16px 20px; }
+  .opening-copy > .text-link { width: 100%; min-height: 48px; justify-content: space-between; font-size: 14px; margin-top: 8px; }
+  .button > .link-arrow, .text-link > .link-arrow { width: 20px; height: 20px; flex-basis: 20px; }
+  .occasion-row > .link-arrow, .kitchen-index a > .link-arrow { width: 20px; height: 20px; flex-basis: 20px; align-self: center; }
   .opening-image > img { height: 290px; object-position: 53% center; }
   .opening-image figcaption { font-size: 11px; padding-top: 12px; }
   .opening-image figcaption > span:last-child { display: none; }
@@ -258,7 +267,7 @@ html.motion-ready [data-reveal] { transform: translateY(18px); transition-durati
   .footer-brand { align-items: start; }
   .footer-brand p { font-size: 12px; }
   .footer-top .eyebrow { font-size: 10px; }
-  .footer-top > div:not(.footer-brand) > a { font-size: 13px; }
+  .footer-top > div:not(.footer-brand) > a { font-size: 14px; min-height: 32px; padding-block: 4px; }
   .footer-bottom { font-size: 11px; }
   .page-intro, .page-intro.with-photo { padding-block: 25px 35px; gap: 28px; }
   .page-intro h1 { font-size: clamp(42px, 11vw, 58px); }
