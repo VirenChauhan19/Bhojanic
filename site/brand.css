@@ -63,22 +63,11 @@ em { color: #e37435; }
   gap: 40px; padding-right: 40px;
 }
 .flavor-ribbon:hover .ribbon-track { animation-play-state: running; }
-.flavor-ribbon.is-paused .ribbon-track { animation-play-state: paused; }
-.ribbon-toggle {
-  position: absolute; right: 12px; top: 50%; transform: translateY(-50%);
-  display: grid; place-items: center; width: 34px; height: 34px;
-  background: var(--paper); color: var(--ink); border-radius: 50%;
-  box-shadow: 0 2px 10px #70221520; opacity: .85;
-  transition: opacity .2s; font-size: 12px; z-index: 2;
-}
-.flavor-ribbon:hover .ribbon-toggle,
-.ribbon-toggle:focus-visible, .flavor-ribbon.is-paused .ribbon-toggle { opacity: 1; }
 @media (max-width: 640px) {
   .ribbon-group { gap: 25px; padding-right: 25px; }
   .journey-bg::after { background: linear-gradient(90deg, #222222df, #22222255); }
 }
 .reduce-motion .ribbon-track { animation: none; }
-.reduce-motion .ribbon-toggle { display: grid; }
 .motion-toggle { padding: 0; font: inherit; color: inherit; text-decoration: underline; text-underline-offset: 3px; }
 .motion-toggle:hover { color: var(--orange-ink); }
 

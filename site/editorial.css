@@ -39,9 +39,6 @@ h1, h2, h3 { font-weight: 400; letter-spacing: -.045em; }
 .flavor-ribbon { margin: 0; transform: none; padding-block: 18px; background: var(--orange); color: #292e2b; }
 .ribbon-track span { font-size: clamp(23px, 2.1vw, 30px); }
 .ribbon-track .ribbon-dot { font: 400 17px/1 var(--sans); }
-.ribbon-toggle { width: 76px; border-radius: 0; background: var(--beige); box-shadow: none; opacity: 1; }
-/* Explicitly playing this ribbon need not enable motion throughout the page. */
-html.reduce-motion .flavor-ribbon.ribbon-motion-on .ribbon-track { animation: marquee 30s linear infinite !important; }
 
 /* Invitations are useful links, not three identical promotional cards. */
 .occasion-section { display: grid; grid-template-columns: .9fr 1.1fr; gap: 50px 9%; padding-block: 115px; align-items: start; }

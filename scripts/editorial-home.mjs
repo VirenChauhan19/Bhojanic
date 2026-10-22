@@ -18,7 +18,7 @@ export function renderHome({ image, img, button, arrow, cuisines }) {
       </div>
       <figure class="opening-image">${img(image.meal,'A generous spread of North Indian curries, rice, flatbreads, and chutneys','',true)}<figcaption><span>The Bhojanic table</span><span>North Indian roots. A wider world of flavor.</span></figcaption></figure>
     </section>
-    <div class="flavor-ribbon" aria-label="Regional Indian cooking, global flavors, unforgettable gatherings"><div class="ribbon-track" aria-hidden="true"><div class="ribbon-group">${ribbonGroup}${ribbonGroup}</div><div class="ribbon-group">${ribbonGroup}${ribbonGroup}</div></div><button class="ribbon-toggle" aria-label="Pause scrolling text" aria-pressed="false"><span aria-hidden="true">Ⅱ</span></button></div>
+    <div class="flavor-ribbon" aria-label="Regional Indian cooking, global flavors, unforgettable gatherings"><div class="ribbon-track" aria-hidden="true"><div class="ribbon-group">${ribbonGroup}${ribbonGroup}</div><div class="ribbon-group">${ribbonGroup}${ribbonGroup}</div></div></div>
     <section class="occasion-section wrap" id="gatherings">
       <div class="occasion-intro" data-reveal><span class="eyebrow">Catering, with care</span><h2>A little more<br>personal.</h2><p>Recipes passed down through family. Menus made for the people at your table. The details that make a gathering feel like yours.</p></div>
       <div class="occasion-photo" data-reveal>${img(image.plated,'Plated appetizers being prepared for a catered celebration')}</div>

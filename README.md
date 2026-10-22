@@ -28,7 +28,7 @@ For a side-by-side phone, tablet, and desktop review, open http://localhost:3000
 
 The layout reorganizes for phones, tablets, laptops, and larger desktops. Navigation changes to an animated, keyboard-accessible mobile menu. Menus have live dish search, section navigation, and horizontally scrollable cuisine tabs. Galleries support touch scrolling and a native lightbox with keyboard controls.
 
-Motion includes restrained image and section reveals, a seamless scrolling flavor ribbon with pause/resume controls, animated navigation, subtle link feedback, and cross-page transitions. The opening photograph is stable, without floating or pointer movement. The system honors `prefers-reduced-motion` by default; the footer lets visitors explicitly enable animations or reduce motion, and remembers that choice. Photos use available local responsive variants; below-the-fold images load lazily. The redesigned pages do not depend on the Squarespace browser runtime.
+Motion includes restrained image and section reveals, a seamless scrolling flavor ribbon, animated navigation, subtle link feedback, and cross-page transitions. The ribbon has no inline play/pause button; the footer motion setting controls it along with other animations. The opening photograph is stable, without floating or pointer movement. The system honors `prefers-reduced-motion` by default; the footer lets visitors explicitly enable animations or reduce motion, and remembers that choice. Photos use available local responsive variants; below-the-fold images load lazily. The redesigned pages do not depend on the Squarespace browser runtime.
 
 ## Editing and building
 
